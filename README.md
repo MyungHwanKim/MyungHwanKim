@@ -12,10 +12,9 @@
 ### 💻 Tech Stack 💻
 <hr/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MyungHwanKim)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MyungHwanKim)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![Dev_MHK's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyungHwanKim&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyungHwanKim&layout=compact&theme=material-palenight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Dev_MHK's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyungHwanKim&show_icons=true&theme=material-palenight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyungHwanKim&layout=compact&theme=material-palenight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎖️ Algorithm 🎖️
 <hr/>
