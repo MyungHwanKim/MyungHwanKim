@@ -3,7 +3,7 @@
 ## Hello, I'm MyungHwan 😆
 
 ### ✨ Blog ✨  
-<a href="https://velog.io/@kmh9250">
+<a href="https://velog.io/@kmh9250" target="_blank">
     <img 
         src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@kmh9250"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
