@@ -1,6 +1,6 @@
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=MyungHwan%20Kim&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=c8c8c8&height=300&section=header&text=MyungHwan%20Kim&fontSize=90&fontColor=FFFFFF)
 
 <a href="https://velog.io/@kmh9250">
     <img src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@kmh9250" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
