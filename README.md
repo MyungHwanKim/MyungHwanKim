@@ -66,7 +66,7 @@
 <p aglin="right">
 
 ![MyungHwan Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyungHwanKim&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyungHwanKim&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyungHwanKim&layout=compact&theme=tokyonight) -->
 </p>
 
 ## 🎖️ Algorithm 🎖️
